@@ -23,7 +23,7 @@ Pour installer et exécuter l'application localement, suivez ces étapes :
 1. Clonez ce dépôt sur votre machine locale :
 
     ```bash
-    git clone https://votreDepot.git
+    git clone https://github.com/BelkacemRedouane/weather-app.git
     cd weather-app
     ```
 
